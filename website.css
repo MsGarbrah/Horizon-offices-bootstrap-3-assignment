@@ -1,0 +1,81 @@
+.navbar {
+    background-color: rgb(233, 237, 237);
+}
+
+.logo {
+    width: 200px;
+    padding-left: 40px;
+}
+
+.flag {
+    padding: 10px;
+    padding-bottom: 25px;
+    margin-left: 450px;
+}
+
+.flag-icon {
+    margin-right: 12px;
+}
+
+.about {
+    padding-right: 60px;
+}
+
+.heading {
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+
+.plans {
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 60px;
+}
+
+.card-body {
+    height: 200px;
+}
+
+.card-img-top {
+    height: 150px;
+}
+
+h3 {
+    font-size: large;
+}
+
+.card-text {
+    font-size: small;
+}
+
+.footer {
+    background-color: rgb(9, 29, 86);
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;  
+    border: 10px solid rgb(9, 29, 86);
+    padding-bottom: 20px;
+}
+
+.location {
+    color: white;
+    margin: 0;
+    font-size: x-small;
+}
+
+.col-md-4 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+h6 {
+    color: rgb(143, 120, 39);
+    margin-bottom: 4px;
+}
+
+.city {
+    color: yellowgreen;
+    font-size: x-small;
+    margin-bottom: 4px;
+}
